@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="WriteToComPort.exe" size="15808">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="WriteToComPort.exe" size="15296">
       <assemblyIdentity name="WriteToComPort" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>rubJUvkq9C+eAJ1Z+5WhgKDRpyM+1TDbsQ2CLTBUXsc=</dsig:DigestValue>
+        <dsig:DigestValue>bx3hH0AQyQ4VweODM+TOu51wJq4JEXmBFAffLzh0WKY=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
