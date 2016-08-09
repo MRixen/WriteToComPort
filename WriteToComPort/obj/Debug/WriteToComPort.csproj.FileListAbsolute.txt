@@ -14,3 +14,16 @@ C:\Users\Manuel.Rixen\documents\visual studio 2013\Projects\WriteToComPort\Write
 C:\Users\Manuel.Rixen\Documents\GitHub\old\WriteToComPort\WriteToComPort\bin\Debug\WriteToComPort.exe.config
 C:\Users\Manuel.Rixen\Documents\GitHub\old\WriteToComPort\WriteToComPort\obj\Debug\WriteToComPort.exe
 C:\Users\Manuel.Rixen\Documents\GitHub\old\WriteToComPort\WriteToComPort\obj\Debug\WriteToComPort.pdb
+C:\Users\Manuel.Rixen\Documents\GitHub\WriteToComPort\WriteToComPort\bin\Debug\WriteToComPort.exe.config
+C:\Users\Manuel.Rixen\Documents\GitHub\WriteToComPort\WriteToComPort\obj\Debug\WriteToComPort.exe
+C:\Users\Manuel.Rixen\Documents\GitHub\WriteToComPort\WriteToComPort\obj\Debug\WriteToComPort.pdb
+C:\Users\Manuel.Rixen\Documents\GitHub\WriteToComPort\WriteToComPort\bin\Debug\WriteToComPort.exe.manifest
+C:\Users\Manuel.Rixen\Documents\GitHub\WriteToComPort\WriteToComPort\bin\Debug\WriteToComPort.application
+C:\Users\Manuel.Rixen\Documents\GitHub\WriteToComPort\WriteToComPort\bin\Debug\WriteToComPort.exe
+C:\Users\Manuel.Rixen\Documents\GitHub\WriteToComPort\WriteToComPort\bin\Debug\WriteToComPort.pdb
+C:\Users\Manuel.Rixen\Documents\GitHub\WriteToComPort\WriteToComPort\obj\Debug\WriteToComPort.csprojResolveAssemblyReference.cache
+C:\Users\Manuel.Rixen\Documents\GitHub\WriteToComPort\WriteToComPort\obj\Debug\WriteToComPort.Form1.resources
+C:\Users\Manuel.Rixen\Documents\GitHub\WriteToComPort\WriteToComPort\obj\Debug\WriteToComPort.Properties.Resources.resources
+C:\Users\Manuel.Rixen\Documents\GitHub\WriteToComPort\WriteToComPort\obj\Debug\WriteToComPort.csproj.GenerateResource.Cache
+C:\Users\Manuel.Rixen\Documents\GitHub\WriteToComPort\WriteToComPort\obj\Debug\WriteToComPort.exe.manifest
+C:\Users\Manuel.Rixen\Documents\GitHub\WriteToComPort\WriteToComPort\obj\Debug\WriteToComPort.application
